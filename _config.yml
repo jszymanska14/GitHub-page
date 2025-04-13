@@ -1,10 +1,6 @@
 title: Moja One Page Strona
 theme: jekyll-theme-cayman
 header_pages:
-  - index.md
-  - about.md
-  - projects.md
-  - contact.md
   - case.md
   - methodology.md
   - case-study.md
