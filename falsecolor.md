@@ -16,5 +16,6 @@ Red -> Blue
 Highlights vegetation (bright red) and reveals bare areas (brown/gray).
 
 ![False Color Example](falsecolor.png)
+The source of the background is the OpenStreetMap Contributors.
 
 These tools enhance interpretability in remote sensing workflows.
