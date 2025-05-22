@@ -1,9 +1,4 @@
 
----
-layout: default
-title: Bare Soil
-nav_order: 1
----
 
 # Bare Soil 
 ## Monitoring uncovered areas
