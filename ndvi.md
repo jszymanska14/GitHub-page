@@ -1,6 +1,4 @@
----
-title: NDVI
----
+
 
 
 # NDVI (Normalized Difference Vegetation Index) 
