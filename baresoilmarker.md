@@ -1,8 +1,4 @@
----
-layout: default
-title: Bare Soil Marker
-nav_order: 4
----
+
 
 # Bare Soil Marker
 
