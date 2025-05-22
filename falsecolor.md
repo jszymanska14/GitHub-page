@@ -1,8 +1,4 @@
----
-layout: default
-title: False Color
-nav_order: 5
----
+
 
 # False Color Visualization
 
