@@ -12,7 +12,7 @@ We use cutting-edge tools and platforms in our analysis:
 - 🐍 **Python with GEE Python API**
 - 📊 **Geospatial analysis libraries (e.g. geopandas, rasterio)**
 - 📡 **Satellite data from Sentinel-2 and Landsat 8**
-- 📈 Custom indices and spectral signature analysis
+- 📈 **Custom indices and spectral signature analysis**
 
 These technologies allow us to process large-scale data and derive reliable insights about monoculture crop dynamics.
 
