@@ -5,7 +5,7 @@ title: Bare Soil
 nav_order: 1
 ---
 
-# 👋 Bare Soil 
+# Bare Soil 
 ## Monitoring uncovered areas
 
 - [Technologies](technologies.md)
