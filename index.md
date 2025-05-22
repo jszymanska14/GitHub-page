@@ -1,12 +1,19 @@
+
 ---
-title: Strona główna
+layout: default
+title: Bare Soil
+nav_order: 1
 ---
 
-# 👋 Welcome in our website!
+# 👋 Bare Soil 
+## Monitoring uncovered areas
 
-Choose one option:
+- [Technologies](technologies.md)
+- [NDVI](ndvi.md)
+- [Bare Soil Marker](baresoilmarker.md)
+- [False Color](falsecolor.md)
 
-- [Case Study](case-study.md)
-- [Case](case.md)
-- [Methodology](methodology.md)
+We aim to detect bare soil using satellite imagery and spectral analysis. This helps monitor land use, crop conditions, and soil exposure across various types of agricultural fields.
 
+> Presented at VIIIth Space Resources Conference Path to Lunar Sustainablility, 2025  
+> Research powered by Google Earth Engine and open geospatial data.

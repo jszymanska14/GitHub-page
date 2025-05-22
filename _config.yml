@@ -1,7 +1,9 @@
-title: Moja One Page Strona
+title: Bare Soil
 theme: jekyll-theme-cayman
 header_pages:
   - case.md
-  - methodology.md
-  - case-study.md
+  - ndvi.md
+  - technologies.md
+  - baresoilmarker.md
+  - falsecolor.md
   - index.md
